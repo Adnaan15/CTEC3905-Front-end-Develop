@@ -1,0 +1,13 @@
+nav a {
+    background-color: aValueChosenByYou;
+    color: aValueChosenByYou;
+    padding: aValueChosenByYou;
+    margin: aValueChosenByYou;
+  
+    /* try different values - e.g. 3s */
+    transition: background-color 0.7s;
+  }
+  
+  nav a:hover {
+    background-color: aValueChosenByYou;
+  }
