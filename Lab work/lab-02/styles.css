@@ -1,13 +1,18 @@
-nav a {
-    background-color: aValueChosenByYou;
-    color: aValueChosenByYou;
-    padding: aValueChosenByYou;
-    margin: aValueChosenByYou;
-  
-    /* try different values - e.g. 3s */
-    transition: background-color 0.7s;
-  }
-  
   nav a:hover {
-    background-color: aValueChosenByYou;
+    background-color: purple;
   }
+
+  nav {
+    display: flex;
+    background-color: orange;
+    width: 85vw;
+  }
+
+  nav a {
+    background-color: orange;
+    color: black;
+    padding: 0.25em 0.5em;
+    margin: 2px;
+  /* try different values - e.g. 3s */
+   transition:background-color 0.7s;
+  }  
