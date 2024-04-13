@@ -1,0 +1,153 @@
+/* IMPORT FONTS */
+@font-face {
+  font-family: "Poppins-regular";
+  src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-medium";
+  src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-bold";
+  src: url(../fonts/Poppins-Bold.ttf);
+}
+
+:root {
+  --primary-color: #62b16d;
+  --primary-hover-color: #b0d8b6;
+  --gray-color: #ebebeb;
+  --sky-blue: #63aadb;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins-regular", sans-serif;
+  font-size: 16px;
+}
+
+/* ################################ UTILITY CLASSES  ################################ */
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1152px;
+  }
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 14px;
+  text-transform: uppercase;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: var(--primary-color);
+}
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 15px 25px;
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  color: rgb(251, 251, 251);
+  font-weight: bold;
+  font-size: 18px;
+  transition: all 0.3s ease-in;
+}
+
+.btn:hover {
+  background-color: var(--primary-hover-color);
+  color: white;
+}
+/* ################################ END OF UTILITY CLASSES  ################################ */
+
+/* ################################ NAVBAR  ################################ */
+nav {
+  background-color: var(--gray-color);
+  padding: 13px 0;
+}
+
+nav .container {
+  display: flex;
+  justify-content: center;
+  column-gap: 25px;
+}
+
+/* ################################ END OF NAVBAR  ################################ */
+
+/* ################################ START OF HERO SECTION  ################################ */
+.hero {
+  height: 90vh;
+  width: 100%;
+  position: relative;
+  padding-top: 30px;
+}
+
+.hero .wrapper {
+  height: 100%;
+  width: 100%;
+  background-image: url(../images/hero-background.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background-overlay {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.7);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero .wrapper .content {
+  z-index: 111;
+  text-align: center;
+}
+.hero .wrapper .content h1 {
+  margin-bottom: 10px;
+  font-family: "Poppins-bold";
+  font-size: 4vmax;
+}
+
+.hero .wrapper .content p {
+  font-size: 2vmax;
+  margin-bottom: 30px;
+}
+
+/* ################################ END  OF HERO SECTION  ################################ */
