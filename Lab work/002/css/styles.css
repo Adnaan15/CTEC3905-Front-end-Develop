@@ -1,0 +1,65 @@
+/* IMPORT FONTS */
+@font-face {
+  font-family: "Poppins-regular";
+  src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-medium";
+  src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-bold";
+  src: url(../fonts/Poppins-Bold.ttf);
+}
+
+:root {
+  --primary-color: #62b16d;
+  --primary-hover-color: #b0d8b6;
+  --gray-color: #ebebeb;
+  --sky-blue: #63aadb;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins-regular", sans-serif;
+}
+
+/* ################################ UTILITY CLASSES  ################################ */
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+@media (min-width: 576px) {
+  .container {
+    max-width: 540px;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    max-width: 720px;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    max-width: 960px;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    max-width: 1152px;
+  }
+}
+
+/* ################################ END OF UTILITY CLASSES  ################################ */
