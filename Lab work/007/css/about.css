@@ -1,0 +1,33 @@
+h1 {
+  font-weight: bold;
+  font-family: "Poppins-bold";
+  margin: 40px 0;
+}
+
+.aboutWrapper {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 25px;
+  margin-top: 25px;
+}
+
+h4 {
+  color: var(--primary-color);
+  margin-bottom: 10px;
+}
+
+.aboutWrapper p {
+  text-align: justify;
+  line-height: 2;
+}
+
+.aboutWrapper .imageWrapper p {
+  font-size: 13px;
+  font-style: italic;
+  text-align: center;
+}
+
+.aboutWrapper img {
+  border-radius: 10px;
+  width: 100%;
+}

@@ -1,0 +1,82 @@
+/* Hero Section */
+.hero {
+  height: 92vh;
+  width: 100%;
+  position: relative;
+  padding-top: 30px;
+}
+
+.hero .wrapper {
+  height: 100%;
+  width: 100%;
+  background-image: url(../images/hero-background.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background-overlay {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.7);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero .wrapper .content {
+  z-index: 111;
+  text-align: center;
+}
+.hero .wrapper .content h1 {
+  margin-bottom: 10px;
+  font-family: "Poppins-bold";
+  font-size: 4vmax;
+}
+
+.hero .wrapper .content p {
+  font-size: 2vmax;
+  margin-bottom: 30px;
+}
+
+/* Favourite and best seller section  */
+.sallers .cards-container {
+  width: 100%;
+  display: grid;
+  overflow: hidden;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.card {
+  padding: 6px;
+  border: 1px solid #d7d7d7;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.3s ease-in;
+}
+.card:hover {
+  background-color: var(--gray-color);
+}
+.card img {
+  width: 100%;
+  height: 160px;
+}
+
+.card .card-content {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.card .card-content .name {
+  font-weight: bold;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+
+.card .card-content .price {
+  color: var(--sky-blue);
+}
