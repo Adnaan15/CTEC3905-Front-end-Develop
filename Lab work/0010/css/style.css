@@ -1,0 +1,227 @@
+/* Variables Colors */
+:root {
+  --primary-color: #62b16d;
+  --primary-hover-color: #b0d8b6;
+  --gray-color: #ebebeb;
+  --sky-blue: #63aadb;
+}
+/* IMPORT FONTS */
+@font-face {
+  font-family: "Poppins-regular";
+  src: url(../fonts/Poppins-Regular.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-medium";
+  src: url(../fonts/Poppins-Medium.ttf);
+}
+
+@font-face {
+  font-family: "Poppins-bold";
+  src: url(../fonts/Poppins-Bold.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Poppins-regular", sans-serif;
+  font-size: 16px;
+  color: #252525;
+}
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  font-size: 16px;
+  text-transform: uppercase;
+  transition: color 0.3s ease;
+}
+a:hover {
+  color: var(--primary-color);
+}
+
+.active {
+  color: var(--primary-color);
+}
+
+.btn {
+  border: none;
+  outline: none;
+  padding: 15px 25px;
+  background-color: var(--primary-color);
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: all 0.3s ease-in;
+}
+
+.btn:hover {
+  background-color: var(--primary-hover-color);
+  color: white;
+}
+
+.heading-wrapper {
+  text-align: center;
+  margin: 40px 0;
+}
+.heading-wrapper h2 {
+  font-family: "Poppins-bold";
+  font-size: 22px;
+}
+
+.heading-wrapper p {
+  color: var(--primary-color);
+  font-size: 18px;
+}
+
+nav {
+  background-color: var(--gray-color);
+  padding: 20px 0;
+}
+
+nav .container {
+  display: flex;
+  justify-content: center;
+  column-gap: 25px;
+}
+
+footer {
+  background-color: var(--primary-hover-color);
+  text-align: center;
+  padding: 15px 0;
+  margin-top: 40px;
+}
+
+/*############   Home Page   ########### */
+/* Hero Section */
+.hero {
+  height: 92vh;
+  width: 100%;
+  position: relative;
+  padding-top: 30px;
+}
+
+.hero .wrapper {
+  height: 100%;
+  width: 100%;
+  background-image: url(../images/hero-background.jpg);
+  background-position: center top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.background-overlay {
+  position: absolute;
+  background-color: rgba(255, 255, 255, 0.7);
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.hero .wrapper .content {
+  z-index: 111;
+  text-align: center;
+}
+.hero .wrapper .content h1 {
+  margin-bottom: 10px;
+  font-family: "Poppins-bold";
+  font-size: 4vmax;
+}
+
+.hero .wrapper .content p {
+  font-size: 2vmax;
+  margin-bottom: 30px;
+}
+
+/* Favourite and best seller section  */
+.sallers .cards-container {
+  width: 100%;
+  display: grid;
+  overflow: hidden;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 20px;
+}
+
+.card {
+  padding: 6px;
+  border: 1px solid #d7d7d7;
+  box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.3s ease-in;
+}
+.card:hover {
+  background-color: var(--gray-color);
+}
+.card img {
+  width: 100%;
+  height: 160px;
+}
+
+.card .card-content {
+  text-align: center;
+  margin: 15px 0;
+}
+
+.card .card-content .name {
+  font-weight: 600;
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+.card .card-content .price {
+  color: var(--sky-blue);
+}
+
+.card .card-content .oldPrice {
+  text-decoration: line-through;
+}
+
+/* ################ `About Page  ################## */
+.about h1 {
+  font-weight: bold;
+  font-family: "Poppins-bold";
+  margin: 40px 0;
+}
+
+.aboutWrapper {
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  gap: 25px;
+  margin-top: 25px;
+}
+
+.about h4 {
+  color: var(--primary-color);
+  margin-bottom: 10px;
+}
+
+.aboutWrapper p {
+  text-align: justify;
+  line-height: 2;
+}
+
+.aboutWrapper .imageWrapper p {
+  font-size: 13px;
+  font-style: italic;
+  text-align: center;
+}
+
+.aboutWrapper img {
+  border-radius: 10px;
+  width: 100%;
+}
