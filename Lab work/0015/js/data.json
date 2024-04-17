@@ -1,0 +1,2343 @@
+{
+  "data": [
+      {
+          "id": "9f93e14d-5ca5-4f90-8d1d-c623760ab8ff",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Mangosteen",
+          "description": "<p>Mangosteen are without a doubt one of the most exquisite fruits of the tropics - you're missing out if you don't try some!</p>\n<p>In the late 19th century, it was rumoured Queen Victoria would grant a knighthood to anyone who brought her mangosteen. This, as well as its superb flavour, was enough to earn the mangosteen a new name, \"the queen of fruits\".</p>\n<p>Still today, these small purple-skinned fruits are very highly regarded, and for good reason. Beneath their hard skin is fibrous, white, segmented flesh that is refreshingly juicy and has a delightful flavour: one bite of mangosteen's delicate flesh will dazzle your tongue with a distinctive combination of both sweet and citrus notes, and the succulent flesh will create an explosion of flavours in your mouth. We'd say the taste is most comparable to a mouthwatering mix of lychee, peach, grape and pineapple, although some people liken mangosteen to sherbet!</p>\n<p>Mangosteen are most often eaten fresh out of hand, but they are also ideal for use in a variety of food and drink recipes. We'd particularly recommend using them to make scrumptious jams (perfect for adding some exotic flavour to your toast!), blending them to create creamy smoothies, and serving them with ice cream, a spectacularly flavoursome dessert. Check out the 'Further information' tab below for some of our favourite mangosteen recipes, including a heavenly panna cotta!</p>\n<p>As well as being delicious, mangosteen also boast a myriad of nutritional benefits. For instance, they are an excellent source of fibre, are rich in vitamins C and B9, and contain many beneficial anti-oxidants, including xanthones, a unique plant compound believed to have strong antioxidant properties.</p>",
+          "label": "",
+          "ribbonId": null,
+          "images": [
+              {
+                  "id": "78e7f8ca-69d8-4725-840b-c83180358a78",
+                  "url": "https://myexoticfruit.com/webshopmedia/Mangosteen%202-1571423887275.jpg",
+                  "alt": "The delicious mangosteen fruit from Southeast Asia",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "9f93e14d-5ca5-4f90-8d1d-c623760ab8ff",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Mangosteen%202-1571423887275.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "b9be8407-66da-45be-9fde-a45f1787aae5",
+                  "url": "https://myexoticfruit.com/webshopmedia/mangosteen-shop4-1561411611900.jpg",
+                  "alt": "The delicious mangosteen fruit from Southeast Asia",
+                  "orderIndex": 1,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "9f93e14d-5ca5-4f90-8d1d-c623760ab8ff",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/mangosteen-shop4-1561411611900.jpg?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "b59dbaff-5f5b-487e-852a-5d82716aad5a",
+                  "name": "Sweet fruits",
+                  "url": "sweet-fruits",
+                  "meta": null,
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 7,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "QUANTITY",
+                  "values": [
+                      "1",
+                      "5",
+                      "20",
+                      "50",
+                      "100"
+                  ]
+              }
+          ],
+          "url": "mangosteen",
+          "meta": "Mangosteen are one of the most exquisite tropical delights - they're so delicious they earned the name the 'queen of fruits'! Buy now for delivery within days!",
+          "pageTitle": null,
+          "modifiedTime": "2023-04-23T21:50:54.888Z",
+          "dbNameSortInAscIndex": "6",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "269a3a66-8e82-4e71-b75e-c1b98faee5e1",
+                  "productId": "9f93e14d-5ca5-4f90-8d1d-c623760ab8ff",
+                  "optionsValues": {
+                      "QUANTITY": "1"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.2,
+                  "sku": null,
+                  "hash": "135289",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "78e7f8ca-69d8-4725-840b-c83180358a78",
+                  "price": 2.4,
+                  "oldPrice": null
+              },
+              {
+                  "id": "dda3e194-b56c-4a96-adf4-3e00443aae0e",
+                  "productId": "9f93e14d-5ca5-4f90-8d1d-c623760ab8ff",
+                  "optionsValues": {
+                      "QUANTITY": "5"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 1,
+                  "sku": null,
+                  "hash": "968628",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "78e7f8ca-69d8-4725-840b-c83180358a78",
+                  "price": 11.75,
+                  "oldPrice": null
+              },
+              {
+                  "id": "4bf6bbe1-e2e8-48ec-b2ec-94d17b8a79b9",
+                  "productId": "9f93e14d-5ca5-4f90-8d1d-c623760ab8ff",
+                  "optionsValues": {
+                      "QUANTITY": "50"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 5,
+                  "sku": null,
+                  "hash": "729419",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "78e7f8ca-69d8-4725-840b-c83180358a78",
+                  "price": 94,
+                  "oldPrice": null
+              },
+              {
+                  "id": "79660c6a-a3f3-44aa-94cc-15ed72ec7d72",
+                  "productId": "9f93e14d-5ca5-4f90-8d1d-c623760ab8ff",
+                  "optionsValues": {
+                      "QUANTITY": "20"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 2,
+                  "sku": null,
+                  "hash": "854856",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "78e7f8ca-69d8-4725-840b-c83180358a78",
+                  "price": 43.25,
+                  "oldPrice": null
+              },
+              {
+                  "id": "83905990-a682-4ebb-8a12-402923b87a2a",
+                  "productId": "9f93e14d-5ca5-4f90-8d1d-c623760ab8ff",
+                  "optionsValues": {
+                      "QUANTITY": "100"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 20,
+                  "sku": null,
+                  "hash": "494865",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "78e7f8ca-69d8-4725-840b-c83180358a78",
+                  "price": 163,
+                  "oldPrice": null
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "Also known as",
+                  "description": "<p><em>Purple Mangosteen, Fruit des Rois, Garcinia mangostana, Mang Cut, Manggis, Manggistan, Mangostan, Queen of Fruits, Xango.</em></p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p><em>Indonesia, Thailand, Colombia, Vietnam or Sri Lanka.</em></p>"
+              },
+              {
+                  "title": "Preparation",
+                  "description": "<p><em>The mangosteen are ripe and ready to eat upon arrival.</em></p>\n<p><em>With your fingers squeeze the mangosteen around the 'equator' to separate the purple shell into 2 pieces and eat the delicious white flesh inside.</em></p>\n<p><em>If the mangosteen have become firm you can use a knife to open them.</em></p>\n<p><em>Mangosteen should be consumed whilst they yield to pressure. <span style=\"text-decoration: underline;\">Do not</span> leave the mangosteen until they become hard as they will be past their best.</em></p>"
+              },
+              {
+                  "title": "Usage",
+                  "description": "<p><em>Fresh mangosteen are sometimes processed into liquid supplements and powders but most often simply eaten fresh. Do not eat the seed.</em></p>\n<p><em>In Southeast Asis you can find mangosteen canned in syrup and also freeze-dried mangosteen.</em></p>"
+              },
+              {
+                  "title": "Storage",
+                  "description": "<p><em>The mangosteen must be refrigerated and consumed within a few days.</em></p>"
+              },
+              {
+                  "title": "Average weight",
+                  "description": "<p><em>Mangosteen vary considerably in size, particularly because we source our supplies from multiple different countries. However, one mangosteen usually weighs between 60-90g (they are sometimes slightly heavier than 90g, although very rarely below 60g).</em></p>"
+              },
+              {
+                  "title": "Seasonality",
+                  "description": "<p><em>Mangosteen are usually available all year round, as we can source it from various countries</em>.</p>"
+              },
+              {
+                  "title": "Further information",
+                  "description": "<p>Wondering how to eat your mangosteen? Watch <a title=\"How to eat mangosteen - YouTube\" href=\"https://www.youtube.com/watch?v=4PBtco6EM2M\" target=\"_blank\" rel=\"noopener\">this</a> short YouTube video to quickly learn how to best open and consume mangosteen.</p>\n<p>Wondering how best to enjoy your mangosteen? We'd recommend making <a title=\"Mangosteen panna cotta recipe\" href=\"https://www.eatme.eu/en/recipes/mangosteen-panna-cotta\" target=\"_blank\" rel=\"noopener\">this</a> delightful mangosteen panna cotta, the perfect dinner party dessert to impress your friends with unique tropical flavours, and <a title=\"Mangosteen smoothie recipe\" href=\"https://foodaciously.com/recipe/mangosteen-smoothie\" target=\"_blank\" rel=\"noopener\">this</a> mangosteen smoothie, a delicious yet healthy drink that will quench your thirst instantly!</p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2017-02-21T11:09:10.918Z",
+          "productOrder": 16,
+          "deleteTime": null,
+          "keywords": [
+              "mangosteen"
+          ],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      },
+      {
+          "id": "74064d8d-b792-427e-8d84-cd6bbe365961",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Passionfruit - granadilla",
+          "description": "<p>A sweet passionfruit.</p>\n<p>This variety of passionfruit has a grey pulp with lots of crunchy seeds and a sweet juice.</p>\n<p>The perfect passion fruit for you if you find other varieties a bit too tart!</p>",
+          "label": "",
+          "ribbonId": null,
+          "images": [
+              {
+                  "id": "f9bf75a8-9613-484d-adad-111c0c323938",
+                  "url": "https://myexoticfruit.com/webshopmedia/granadilla-1561306898728.jpg",
+                  "alt": "Granadilla",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "74064d8d-b792-427e-8d84-cd6bbe365961",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/granadilla-1561306898728.jpg?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "b59dbaff-5f5b-487e-852a-5d82716aad5a",
+                  "name": "Sweet fruits",
+                  "url": "sweet-fruits",
+                  "meta": null,
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 7,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "f88bbfb0-29c8-4af0-b9a0-c6d338a9c2dc",
+                  "name": "Passionfruit",
+                  "url": "passionfruit",
+                  "meta": "Passionfruit",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 20,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "QUANTITY",
+                  "values": [
+                      "1",
+                      "3",
+                      "10"
+                  ]
+              }
+          ],
+          "url": "granadilla",
+          "meta": "buy granadilla online. buy exotic fruit online in the UK.",
+          "pageTitle": null,
+          "modifiedTime": "2023-07-27T17:12:45.727Z",
+          "dbNameSortInAscIndex": "7",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "3b1701bc-ce97-4ea6-ad1a-cede41c225cf",
+                  "productId": "74064d8d-b792-427e-8d84-cd6bbe365961",
+                  "optionsValues": {
+                      "QUANTITY": "3"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.6,
+                  "sku": null,
+                  "hash": "690722",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "f9bf75a8-9613-484d-adad-111c0c323938",
+                  "price": 6.75,
+                  "oldPrice": null
+              },
+              {
+                  "id": "635217fc-fa67-4390-9307-9f7f227b0549",
+                  "productId": "74064d8d-b792-427e-8d84-cd6bbe365961",
+                  "optionsValues": {
+                      "QUANTITY": "10"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 2,
+                  "sku": null,
+                  "hash": "134131",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "f9bf75a8-9613-484d-adad-111c0c323938",
+                  "price": 20.5,
+                  "oldPrice": 21.5
+              },
+              {
+                  "id": "2ab5bf46-8185-4eb3-982b-f176be0b15de",
+                  "productId": "74064d8d-b792-427e-8d84-cd6bbe365961",
+                  "optionsValues": {
+                      "QUANTITY": "1"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.22,
+                  "sku": null,
+                  "hash": "148144",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "f9bf75a8-9613-484d-adad-111c0c323938",
+                  "price": 2.5,
+                  "oldPrice": null
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "Also known as",
+                  "description": "<p><em>Granaditta, granadilla de China, parchita amarilla, granadilla com&uacute;n, sweet granadilla.</em></p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p><em>Colombia.</em></p>"
+              },
+              {
+                  "title": "Preparation",
+                  "description": "<p><em>Always wash first.</em></p>\n<p><em>The granadilla will be ready to eat upon arrival. They are ripe when the shell is orange in colour and will continue to ripen as the shell turns brown-red. To eat, smply slice off the top and scoop out the pulp and juice.</em></p>"
+              },
+              {
+                  "title": "Usage",
+                  "description": "<p><em>Granadilla pulp has a delicate sweet flavour so is best eaten straight out the shell. You can also use the pulp as a garnish for desserts. It's best not to combine the pulp with other strong flavours as this could overwhelm the delicate granadilla taste.</em></p>"
+              },
+              {
+                  "title": "Storage",
+                  "description": "<p><em>Keep refrigerated to maintain freshness and consume within 1-2 weeks.</em></p>"
+              },
+              {
+                  "title": "Seasonality",
+                  "description": "<p><em>Our granadilla are available all year round.</em></p>"
+              },
+              {
+                  "title": "Average weight",
+                  "description": "<p><em>Our granadilla usually weigh around g per fruit.</em></p>"
+              },
+              {
+                  "title": "Further information",
+                  "description": "<p>(Organically grown)</p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2017-02-21T11:09:10.918Z",
+          "productOrder": 196,
+          "deleteTime": null,
+          "keywords": [],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      },
+      {
+          "id": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Soursop",
+          "description": "<p>Soursop, also known as graviola, guanabana, and guyabano is a delicious fruit in high demand because of the health benefits it's believed to have.</p>\n<p>The flavour of the soursop fruit has been described as a combination of strawberry and pineapple, with citrus flavour notes contrasting with an underlying creamy texture reminiscent of coconut and banana! We choose to source soursop from the Caribbean islands of St Lucia,&nbsp;&nbsp;Grenada and Jamaica or Vietnam as all these countries produce high quality soursop with a delicious sweeter flavour and a smaller amount of fibre compared to fruits of other origin.</p>\n<p>-</p>\n<p><strong>Soursop must be kept at room temperature or warmer to ripen.</strong> Please ensure you read the important storage instructions below.</p>\n<p>-</p>\n<p><span style=\"text-decoration: underline;\"><strong>Ordering</strong></span><br />Our fresh shipments of soursop usually arrive with us on Tuesday or Wednesday.</p>\n<p>We only buy to order. As this fruit ripens quickly, we do not buy excess stock to avoid wastage.</p>\n<p><strong>Please place your order for soursop before 8pm on Mondays</strong> otherwise it is likely you will have to wait until the following week before you receive your order.</p>\n<p>If you are <strong>PRE-ORDERING</strong> fresh soursop during the low season the above ordering guidelines <span style=\"text-decoration: underline;\">do not apply</span>, you should expect a longer wait to receive your fruit. See the pre-ordering information below.</p>\n<p>&nbsp;</p>",
+          "label": "",
+          "ribbonId": null,
+          "images": [
+              {
+                  "id": "5fd545bd-5571-4d54-a583-8f7ad514e61e",
+                  "url": "https://myexoticfruit.com/webshopmedia/Soursop%20cut%201-1548341088114.jpg",
+                  "alt": "Fresh soursop, organically grown on the Caribbean islands available to purchase on myexoticfruit.com, the home of exotic fruit in the UK.",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Soursop%20cut%201-1548341088114.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "36047594-cf1d-4d87-b320-6ac78bbf588c",
+                  "url": "https://myexoticfruit.com/webshopmedia/Soursop-1548341067724.jpg",
+                  "alt": "Fresh soursop, organically grown on the Caribbean islands available to purchase on myexoticfruit.com, the home of exotic fruit in the UK.",
+                  "orderIndex": 1,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Soursop-1548341067724.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "a762b94c-0c3f-49c1-81b1-8c373a6d5180",
+                  "url": "https://myexoticfruit.com/webshopmedia/Soursop-1493646085809.jpg",
+                  "alt": "Fresh soursop, organically grown on the Caribbean islands available to purchase on myexoticfruit.com, the home of exotic fruit in the UK.",
+                  "orderIndex": 2,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Soursop-1493646085809.jpg?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "93a3b5df-9ee0-41ba-8693-3ecdc437376c",
+                  "name": "Soursop",
+                  "url": "soursop",
+                  "meta": "Soursop",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 6,
+                  "sortProducts": "MANUAL",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "b59dbaff-5f5b-487e-852a-5d82716aad5a",
+                  "name": "Sweet fruits",
+                  "url": "sweet-fruits",
+                  "meta": null,
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 7,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "ee60edd7-3a10-4d6d-9d09-1f1f8932861f",
+                  "name": "Caribbean Island Favourites",
+                  "url": "caribbean-island-favourites",
+                  "meta": "Caribbean Island Favourites",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 4,
+                  "sortProducts": "MANUAL",
+                  "count": 0,
+                  "createTime": "2021-05-28T01:00:37.73202",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "QUANTITY",
+                  "values": [
+                      "500g",
+                      "1kg",
+                      "5kg",
+                      "10kg",
+                      "PRE-ORDER 500g",
+                      "PRE-ORDER 1kg"
+                  ]
+              }
+          ],
+          "url": "soursop",
+          "meta": "Looking for fresh soursop? It's a healthy tropical fruit with a delicious sweet flesh. Buy soursop online today for delivery to your address within days!",
+          "pageTitle": "",
+          "modifiedTime": "2024-01-03T16:47:02.101Z",
+          "dbNameSortInAscIndex": "8",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "5ef58a00-faa9-42d8-8a37-c0ec45890b2c",
+                  "productId": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+                  "optionsValues": {
+                      "QUANTITY": "10kg"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 11,
+                  "sku": null,
+                  "hash": "459252",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "36047594-cf1d-4d87-b320-6ac78bbf588c",
+                  "price": 167.5,
+                  "oldPrice": null
+              },
+              {
+                  "id": "c7e3c839-e271-45f4-b868-886685dda86b",
+                  "productId": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+                  "optionsValues": {
+                      "QUANTITY": "5kg"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 5.5,
+                  "sku": null,
+                  "hash": "224654",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "36047594-cf1d-4d87-b320-6ac78bbf588c",
+                  "price": 87.5,
+                  "oldPrice": null
+              },
+              {
+                  "id": "3d40b8f7-688b-49c1-8bb0-4d4c47b42333",
+                  "productId": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+                  "optionsValues": {
+                      "QUANTITY": "1kg"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 1.2,
+                  "sku": null,
+                  "hash": "138890",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "36047594-cf1d-4d87-b320-6ac78bbf588c",
+                  "price": 19,
+                  "oldPrice": 22
+              },
+              {
+                  "id": "ca99583f-771b-45a6-94ce-16c6cff909b5",
+                  "productId": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+                  "optionsValues": {
+                      "QUANTITY": "500g"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.7,
+                  "sku": null,
+                  "hash": "484949",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "36047594-cf1d-4d87-b320-6ac78bbf588c",
+                  "price": 11,
+                  "oldPrice": 11.5
+              },
+              {
+                  "id": "083314ec-73f7-481e-b2b7-06baf99a3540",
+                  "productId": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+                  "optionsValues": {
+                      "QUANTITY": "PRE-ORDER 1kg"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 1.2,
+                  "sku": null,
+                  "hash": "130475",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "36047594-cf1d-4d87-b320-6ac78bbf588c",
+                  "price": 24.5,
+                  "oldPrice": null
+              },
+              {
+                  "id": "2ea321ab-f134-4c4e-b016-a78ee888cb9b",
+                  "productId": "033ffb70-2211-4850-98ae-4f8e02a69adc",
+                  "optionsValues": {
+                      "QUANTITY": "PRE-ORDER 500g"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.7,
+                  "sku": null,
+                  "hash": "909463",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "36047594-cf1d-4d87-b320-6ac78bbf588c",
+                  "price": 16.5,
+                  "oldPrice": null
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "Pre-ordering fresh soursop",
+                  "description": "<p>During low season our fresh soursop can be pre-ordered.&nbsp;</p>\n<p>This means you will usually need to wait at least a few weeks between ordering and receiving your soursop. The pre-order price includes the delivery charge. If you include other fruits in your order, they will be sent separately to any fruits which you've purchased on a pre-order basis.</p>\n<p>If you're only purchasing pre-order items please use the discount code PREORDER during checkout which will enable you to complete your order without paying a second delivery charge.</p>"
+              },
+              {
+                  "title": "Also known as",
+                  "description": "<p><em>Graviola, guanabana, guyabano, sirsak, durian belanda, bullock's heart, prickly custard apple, and soursap.</em></p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p><em>Grenada, Saint Lucia, Jamaica, Sri Lanka or Vietnam.<br /></em></p>"
+              },
+              {
+                  "title": "Preparation",
+                  "description": "<p><em>Usually, after 1-4 days, the soursop will be soft to very soft. This indicates the fruit is ripe and ready to eat. The skin may brown during ripening. Simply slice in half and scoop out the white flesh. </em></p>\n<p><em>The skin, seeds and core aren't eaten.</em></p>"
+              },
+              {
+                  "title": "Usage",
+                  "description": "<p><em>Soursop is usually eaten raw for its taste and health benefits. It also makes a delicious juice and is sometimes used to make ice cream and other desserts</em></p>"
+              },
+              {
+                  "title": "Storage",
+                  "description": "<p><em>Soursop must be kept at room temperature or warmer to ripen. Once the fruit is ripe (soft all over), you must then store in the refrigerator for around 5-7 days.</em></p>"
+              },
+              {
+                  "title": "Order weight",
+                  "description": "<p><em>We will select fruits as close as possible to the weight you have ordered. We always aim to be accurate to +/-5%.</em></p>"
+              },
+              {
+                  "title": "Further information",
+                  "description": "<p><a title=\"How to cut and eat soursop!\" href=\"https://www.youtube.com/watch?v=Mn4FlTzRdF0\" target=\"_blank\" rel=\"noopener\">How to cut and eat soursop!</a></p>\n<p><a title=\"Click here to see a video of the inside of the soursop fruit.\" href=\"https://www.instagram.com/p/BTGYmFmDnfy/?taken-by=myexoticfruit&amp;hl=en\" target=\"_blank\" rel=\"noopener\">Click here to see a video of the inside of the soursop fruit.</a></p>\n<p>&nbsp;</p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2017-02-21T11:09:10.918Z",
+          "productOrder": 14,
+          "deleteTime": null,
+          "keywords": [
+              "Soursop",
+              "Soursap"
+          ],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      },
+      {
+          "id": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Guava - pink",
+          "description": "<p>Guava are sweet with their own unique flavour - they can be compared somewhat to pear. Pink guava have soft sweet flesh which is considered sweeter than that of white guava.</p>\n<p>They are wonderfully aromatic and, when ripe, can fill the room with their fragrant scent!</p>\n<p>Throughout the seasons we source pink flesh guava from various regions in the world. The Indonesian and Colombian guava are particularly renowned for their sweet aroma.</p>\n<p>&nbsp;</p>",
+          "label": "",
+          "ribbonId": null,
+          "images": [
+              {
+                  "id": "c454b19b-2b88-4ab0-a1c7-c2fcaf48dced",
+                  "url": "https://myexoticfruit.com/webshopmedia/guava-1472589349347.png",
+                  "alt": "Pink guava",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/guava-1472589349347.png?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "a03fbe62-e1b1-406b-bc73-dc50ddd277a1",
+                  "url": "https://myexoticfruit.com/webshopmedia/Pink%20Guava%20Indonesia-1561479463648.png",
+                  "alt": "Guava - pink flesh",
+                  "orderIndex": 1,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Pink%20Guava%20Indonesia-1561479463648.png?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "3e3aba28-aa55-40d8-af01-e1848e5e1913",
+                  "url": "https://myexoticfruit.com/webshopmedia/Pink%20guava%20baby%20Brazil-1561479515838.jpg",
+                  "alt": "Guava - pink flesh",
+                  "orderIndex": 2,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Pink%20guava%20baby%20Brazil-1561479515838.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "101eba48-465c-4a8f-a596-3bace4b5a3e1",
+                  "url": "https://myexoticfruit.com/webshopmedia/Pink%20guava-1588804265781.jpg",
+                  "alt": "Buy fresh pink guava from St Lucia.",
+                  "orderIndex": 3,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Pink%20guava-1588804265781.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "d8b1c460-578a-4b21-8cf1-198b26d6a7e0",
+                  "url": "https://myexoticfruit.com/webshopmedia/image-coming-soon-1700657837527.png",
+                  "alt": "",
+                  "orderIndex": 4,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/image-coming-soon-1700657837527.png?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "b59dbaff-5f5b-487e-852a-5d82716aad5a",
+                  "name": "Sweet fruits",
+                  "url": "sweet-fruits",
+                  "meta": null,
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 7,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "d4d2b66e-328b-4c5d-9489-e641c1df49bb",
+                  "name": "Guava",
+                  "url": "guava",
+                  "meta": "Guava",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 16,
+                  "sortProducts": "MANUAL",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "QUANTITY",
+                  "values": [
+                      "1 x guava (Brazilian)",
+                      "3 x guava (Brazilian)",
+                      "10 x guava (Brazilian)",
+                      "1 x guava (Colombia)",
+                      "3 x guava (Colombia)",
+                      "10 x guava (Colombia)",
+                      "Chilli salt dip for guava (muối ớt tây ninh)"
+                  ]
+              }
+          ],
+          "url": "guava-pink-flesh",
+          "meta": "Pink guava have soft sweet flesh which is considered sweeter than that of white guava and are wonderfully aromatic. Buy some today!",
+          "pageTitle": "Pink Guava",
+          "modifiedTime": "2023-12-22T11:57:07.372Z",
+          "dbNameSortInAscIndex": "4",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "4caad66f-98dc-4e9b-b7fc-f4c68ffbfd92",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "optionsValues": {
+                      "QUANTITY": "3 x guava (Brazilian)"
+                  },
+                  "quantity": 1,
+                  "unlimited": true,
+                  "weight": 0.6,
+                  "sku": null,
+                  "hash": "164544",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "c454b19b-2b88-4ab0-a1c7-c2fcaf48dced",
+                  "price": 8.1,
+                  "oldPrice": null
+              },
+              {
+                  "id": "936873c1-35aa-4079-ba98-84a393afad9d",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "optionsValues": {
+                      "QUANTITY": "3 x guava (Colombia)"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.6,
+                  "sku": null,
+                  "hash": "204636",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "3e3aba28-aa55-40d8-af01-e1848e5e1913",
+                  "price": 7.05,
+                  "oldPrice": null
+              },
+              {
+                  "id": "07c79669-c02f-45b3-8700-df309806d5b1",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "optionsValues": {
+                      "QUANTITY": "1 x guava (Brazilian)"
+                  },
+                  "quantity": 5,
+                  "unlimited": true,
+                  "weight": 0.22,
+                  "sku": null,
+                  "hash": "564879",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "c454b19b-2b88-4ab0-a1c7-c2fcaf48dced",
+                  "price": 2.9,
+                  "oldPrice": null
+              },
+              {
+                  "id": "e97a9c49-29ea-41f4-bfbc-26bea77cbe51",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "optionsValues": {
+                      "QUANTITY": "Chilli salt dip for guava (muối ớt tây ninh)"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.2,
+                  "sku": null,
+                  "hash": "880297",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "d8b1c460-578a-4b21-8cf1-198b26d6a7e0",
+                  "price": 3.3,
+                  "oldPrice": null
+              },
+              {
+                  "id": "3a65be81-16bf-467e-b74a-7e48516b5192",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "optionsValues": {
+                      "QUANTITY": "10 x guava (Brazilian)"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 2,
+                  "sku": null,
+                  "hash": "761640",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "c454b19b-2b88-4ab0-a1c7-c2fcaf48dced",
+                  "price": 23,
+                  "oldPrice": null
+              },
+              {
+                  "id": "5b6b8978-943e-486b-980d-3374f1dc735c",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "optionsValues": {
+                      "QUANTITY": "1 x guava (Colombia)"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.15,
+                  "sku": null,
+                  "hash": "997004",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "3e3aba28-aa55-40d8-af01-e1848e5e1913",
+                  "price": 2.5,
+                  "oldPrice": null
+              },
+              {
+                  "id": "11510c1c-92eb-4ae2-8ab1-e73669d0ac29",
+                  "productId": "5fda4307-821f-4694-a6e3-d382eba2b48a",
+                  "optionsValues": {
+                      "QUANTITY": "10 x guava (Colombia)"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.6,
+                  "sku": null,
+                  "hash": "608510",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "3e3aba28-aa55-40d8-af01-e1848e5e1913",
+                  "price": 21.5,
+                  "oldPrice": null
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "Also known as",
+                  "description": "<p><em>Psidium guajava.</em></p>\n<p><em>Guayaba, goyave, guyaba,&nbsp;goiaba.</em></p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p><em>Colombia, Brazil, Indonesia, India, Mexico or St Lucia.</em></p>"
+              },
+              {
+                  "title": "Preparation",
+                  "description": "<p><em>Leave to ripen at room temperature or warmer. Once the fruit has started to soften and the aroma is stronger, the fruit is ready to be washed and eaten. The fruit may be eaten whole or the seeds and skin can be discarded.</em></p>"
+              },
+              {
+                  "title": "Usage",
+                  "description": "<p><em>You should wash the entire guava, as the rinds are actually edible. Using a knife, slice your guava in half or into thinner slices. You can either eat the whole guava (rind and all) or scoop out the insides. Either way, you&rsquo;re in for a delicious treat. Some people like to put seasonings on their guavas like soy sauce, salt, sugar, or even vinegar.</em></p>"
+              },
+              {
+                  "title": "Storage",
+                  "description": "<p><em>Keep the pink guava at room temperature or warmer.</em></p>"
+              },
+              {
+                  "title": "Average weight",
+                  "description": "<p><em>Indian pink guava - 300g to 475g per fruit.</em></p>\n<p><em>Brazilian pink guava - 160g to 32g per fruit</em></p>\n<p><em>St Lucian pink guava - 70g to 100g per fruit.</em></p>\n<p><em>Colombian pink guava - 100g to 140g per fruit.</em></p>"
+              },
+              {
+                  "title": "Seasonality",
+                  "description": "<p><em>Pink guavas are typically available for most of the year, although there is often limited availability in November </em><em>and December.</em></p>"
+              },
+              {
+                  "title": "Further information",
+                  "description": "<p><a title=\"Guava jam recipe\" href=\"https://www.garlicandzest.com/easy-homemade-guava-jam/\" target=\"_blank\" rel=\"noopener\">Guava jam recipe </a></p>\n<p><a title=\"8 health benefits of guava fruit\" href=\"https://www.healthline.com/nutrition/8-benefits-of-guavas\" target=\"_blank\" rel=\"noopener\">8 health benefits of guava fruit</a></p>\n<p><a title=\"How to make guava juice\" href=\"https://www.youtube.com/watch?v=6JWmDQk6MGE\" target=\"_blank\" rel=\"noopener\">How to make guava juice&nbsp;</a></p>\n<p><a title=\"Guava juice with ginger\" href=\"https://www.youtube.com/watch?v=wnh_ChNRrAk&amp;t=39s\" target=\"_blank\" rel=\"noopener\">Guava juice with ginger</a></p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2017-02-21T11:09:10.918Z",
+          "productOrder": 101,
+          "deleteTime": null,
+          "keywords": [
+              "guava",
+              "pink guava"
+          ],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      },
+      {
+          "id": "e116ad98-d6ef-410d-aecb-b4e77469f98f",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Starfruit",
+          "description": "<p><strong>We usually dispatch the starfruit when they are green and firm to ensure the fruit gets to you in good condition. Leave at room temperature and they will ripen within a few days.</strong></p>\n<p>-</p>\n<p>Starfruit (also known as 'carambola') is a must-try for exotic fruit lovers!</p>\n<p>As you have probably guessed, these fruits are best known for their distinctive appearance. These medium-sized, waxy-skinned fruits have 5 ridged edges, so when they are sliced crossways, the slices are shaped like stars (hence their name)!</p>\n<p>However, it is not only their eye-catching appearance that delights the senses - starfruit's flavour is similarly spectacular!</p>\n<p>When they are picked before they've reached full maturity, starfruits are firm and green with a crisp, citrus-like flavour. At this stage, they primarily impart sour notes, so they are ideal for salads and stir-fries. Yet, if left to ripen fully, starfruits turn a dazzling bright yellow in colour and they soften significantly. Once completely mature, starfruits are succulent and crisp, and boast a divine sweet-tart savour, with delectable notes of grape and plum!&nbsp;</p>\n<p>Ripe starfruits are best enjoyed when simply eaten fresh out of hand, especially because the entire fruit is edible, including the small, brown seeds! Slices are also popularly combined in fruit salads. The fruits are also perfect for juicing - indeed, in Brazil, starfruit juice is renowned as an excellent thirst quencher! Starfruit juice is also an excellent addition to cocktails and slices of starfruit make brilliant cocktail garnishes! Check out the 'Further information' tab below for some more recipe inspiration, including a scrumptious starfruit bruschetta!</p>\n<p>Furthermore, starfruits are nutritionally beneficial. In particular, they are extremely rich in vitamin C - one starfruit provides half your daily required vitamin C content! - provide great amounts of vitamin K, and are a good source of dietary fibre.</p>\n<p>&nbsp;</p>",
+          "label": "",
+          "ribbonId": null,
+          "images": [
+              {
+                  "id": "c206a76a-9b85-4f7e-a852-d90a750ab936",
+                  "url": "https://myexoticfruit.com/webshopmedia/star%20fruit-1561305430066.jpg",
+                  "alt": "Starfruit",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "e116ad98-d6ef-410d-aecb-b4e77469f98f",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/star%20fruit-1561305430066.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "cd358cff-5c98-421a-baae-17f3f8a7f0f1",
+                  "url": "https://myexoticfruit.com/webshopmedia/image-coming-soon-1697815657292.png",
+                  "alt": "",
+                  "orderIndex": 1,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "e116ad98-d6ef-410d-aecb-b4e77469f98f",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/image-coming-soon-1697815657292.png?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "62a2c1f9-a3d8-4562-bb11-f04b27eaa35b",
+                  "name": "Medium-sweet fruits",
+                  "url": "medium-sweet-fruits",
+                  "meta": "Medium-sweet fruits",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 8,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "f129dfd6-ef54-4cbc-b26f-30e818c86e70",
+                  "name": "Medium-sour fruits",
+                  "url": "medium-sour-fruits",
+                  "meta": "Medium-sour fruits",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 10,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "QUANTITY",
+                  "values": [
+                      "1",
+                      "3",
+                      "10",
+                      "700g, frozen pieces for making juice"
+                  ]
+              }
+          ],
+          "url": "starfruit",
+          "meta": "Starfruit is a must-try! Renowned for their attractive star shape, they are perfect for decorating, eating fresh, and juicing! Buy now for UK delivery in days!",
+          "pageTitle": "Starfruit, One of the Most Aesthetically-Appealing Fruits You Can Buy",
+          "modifiedTime": "2023-11-22T14:41:20.141Z",
+          "dbNameSortInAscIndex": "10",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "018a2eed-5a18-47be-922e-390ac6e7518b",
+                  "productId": "e116ad98-d6ef-410d-aecb-b4e77469f98f",
+                  "optionsValues": {
+                      "QUANTITY": "700g, frozen pieces for making juice"
+                  },
+                  "quantity": 2,
+                  "unlimited": false,
+                  "weight": 0.9,
+                  "sku": null,
+                  "hash": "669769",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "cd358cff-5c98-421a-baae-17f3f8a7f0f1",
+                  "price": 9.5,
+                  "oldPrice":12.4
+              },
+              {
+                  "id": "85b689b2-38e4-49ce-ae8f-91dfa608c391",
+                  "productId": "e116ad98-d6ef-410d-aecb-b4e77469f98f",
+                  "optionsValues": {
+                      "QUANTITY": "1"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.25,
+                  "sku": null,
+                  "hash": "742778",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "c206a76a-9b85-4f7e-a852-d90a750ab936",
+                  "price": 2.9,
+                  "oldPrice": 3.15
+              },
+              {
+                  "id": "bfce1951-135e-4be6-83e2-d887a87bb457",
+                  "productId": "e116ad98-d6ef-410d-aecb-b4e77469f98f",
+                  "optionsValues": {
+                      "QUANTITY": "10"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 1.5,
+                  "sku": null,
+                  "hash": "351424",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "c206a76a-9b85-4f7e-a852-d90a750ab936",
+                  "price": 23,
+                  "oldPrice": 28.5
+              },
+              {
+                  "id": "23eab5ff-dca7-483c-a9ce-01580e0eefe0",
+                  "productId": "e116ad98-d6ef-410d-aecb-b4e77469f98f",
+                  "optionsValues": {
+                      "QUANTITY": "3"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.45,
+                  "sku": null,
+                  "hash": "428581",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "c206a76a-9b85-4f7e-a852-d90a750ab936",
+                  "price": 7.5,
+                  "oldPrice": 8.9
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "Also known as",
+                  "description": "<p><em>Carambola, five fingers.</em></p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p><em>Malaysia or Brazil.</em></p>"
+              },
+              {
+                  "title": "Preparation",
+                  "description": "<p><em>Always wash first.</em></p>\n<p><em>Slice the fruit crossways and, if you wish, cut out the central seeds with a sharp knife.</em></p>"
+              },
+              {
+                  "title": "Usage",
+                  "description": "<p><em>Starfruit are generally eaten raw as part of a fruit salad or used as a garnish.</em></p>"
+              },
+              {
+                  "title": "Storage",
+                  "description": "<p><em>Ripen at room temperature until yellow then store in the refrigerator for around 1 week.</em></p>"
+              },
+              {
+                  "title": "Average weight",
+                  "description": "<p><em>On average, one fresh starfruit weighs approximately 90-130g.</em></p>"
+              },
+              {
+                  "title": "Seasonality",
+                  "description": "<p><em>Starfruit is usually available all year round.</em></p>"
+              },
+              {
+                  "title": "Further information",
+                  "description": "<p>Wondering how best to enjoy your starfruits? We'd recommend using them to make <a title=\"Starfruit bruschetta - recipe\" href=\"https://www.theproducemoms.com/star-fruit-bruschetta/\" target=\"_blank\" rel=\"noopener\">this</a> scrumptious starfruit bruschetta and <a title=\"Starfruit curd - recipe\" href=\"https://globaltableadventure.com/recipe/recipe-starfruit-curd-with-tropical-fruit/\" target=\"_blank\" rel=\"noopener\">this</a> delicious starfruit curd, the perfect spread!</p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2017-02-21T11:09:10.918Z",
+          "productOrder": 282,
+          "deleteTime": null,
+          "keywords": [
+              "starfruit",
+              "carambola",
+              "five fingers"
+          ],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      },
+      {
+          "id": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Dragon fruit - red flesh",
+          "description": "<p>Widely regarded as one of the most eye-catching and delicious tropical fruits, it's no surprise that dragon fruits are a firm favourite among our customers!</p>\n<p>Red dragon fruits are small to medium fruits which wow with their reddish-pink skin adorned with many green-tipped scales. Beneath the waxy, semi-smooth skin of these round to oval-shaped fruits is vibrant red to purple-coloured flesh containing hundreds of tiny, edible, black seeds. The combination of the tender, aqueous flesh and the crunchy, chewy seeds means eating a dragon fruit is similar to eating a kiwi! Red dragon fruit particularly stands out because their crisp flesh boasts a more intense sweetness than white flesh varieties, and this sweetness is perfectly complemented by slightly acidic undertones and hints of nuttiness from the seeds.</p>\n<p>The brilliant flavour profile of red dragon fruits means they are most commonly eaten simply fresh out of hand - try chilling them beforehand as this enhances their spectacular taste! However, these mouthwatering fruits are also ideal for use in any number of recipes! They are perfect for incorporating into raw dishes such as fruit salads, cooking into sauces and syrups, and chopping into salsas. They are also well-suited for making smoothies and sorbets, and for flavouring and garnishing cocktails. Check out the 'Further information' tab below for some recipe inspiration, including dragon fruit macarons and dragon fruit jam!</p>\n<p>As well as being divinely delectable and extremely versatile, red dragon fruits offer an array of nutritional benefits. In particular, they are an excellent source of betacyanins and lycopene (healthful compounds that give the fruits their red hue) and are rich in vitamin C, dietary fibre, and potassium.&nbsp;</p>\n<p>&nbsp;</p>",
+          "label": "",
+          "ribbonId": null,
+          "images": [
+              {
+                  "id": "1dd75590-0840-4abc-8cda-b9278e7fac7b",
+                  "url": "https://myexoticfruit.com/webshopmedia/dragonfruit%20red-1561254739488.jpg",
+                  "alt": "Red dragon fruit (also known as pitaya)",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/dragonfruit%20red-1561254739488.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "31d0517a-2f26-4d90-b330-6c480bd997b7",
+                  "url": "https://myexoticfruit.com/webshopmedia/dragonfruit%20shop-1516836276504.jpg",
+                  "alt": "Red dragon fruit (also known as pitaya)",
+                  "orderIndex": 1,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/dragonfruit%20shop-1516836276504.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "da177793-3412-4159-bdbb-b135a61ea761",
+                  "url": "https://myexoticfruit.com/webshopmedia/12677475_954079331349685_1825949006_n-1456418500320.jpg",
+                  "alt": "A delicious drink made from red dragon fruit (also known as pitaya)",
+                  "orderIndex": 2,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/12677475_954079331349685_1825949006_n-1456418500320.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "5652f1b2-6fc1-4f80-8a9c-80c2b1bcb000",
+                  "url": "https://myexoticfruit.com/webshopmedia/barbie%20cocktail%20recipe-1689933431595.png",
+                  "alt": "",
+                  "orderIndex": 3,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/barbie%20cocktail%20recipe-1689933431595.png?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "b6c970bd-37cd-4cb9-bed2-79f4daa92f56",
+                  "name": "Dragon fruit",
+                  "url": "dragon-fruit",
+                  "meta": "Dragon fruit",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 14,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2020-04-28T00:10:01.734042",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "QUANTITY",
+                  "values": [
+                      "1 x small",
+                      "3 x small",
+                      "10 x small",
+                      "1 x medium",
+                      "3 x medium",
+                      "10 x medium",
+                      "3 x large"
+                  ]
+              }
+          ],
+          "url": "dragon-fruit-red-flesh",
+          "meta": "Red dragon fruits are a must-try! These wonderfully attractive fruits boast supremely sweet flesh that wows the tastebuds. Buy now for UK delivery in days!",
+          "pageTitle": "Red Dragon Fruit, a Supremely Eye-Catching Fruit",
+          "modifiedTime": "2023-11-24T17:54:26.989Z",
+          "dbNameSortInAscIndex": "3",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "262f543d-9a75-4b91-887e-37b2b3f0cd83",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "optionsValues": {
+                      "QUANTITY": "3 x small"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 1,
+                  "sku": null,
+                  "hash": "982110",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "1dd75590-0840-4abc-8cda-b9278e7fac7b",
+                  "price": 15.78,
+                  "oldPrice": null
+              },
+              {
+                  "id": "3438fce5-ca88-459e-a720-0b9a07c62eac",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "optionsValues": {
+                      "QUANTITY": "3 x large"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 1.45,
+                  "sku": null,
+                  "hash": "761154",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "1dd75590-0840-4abc-8cda-b9278e7fac7b",
+                  "price": 30,
+                  "oldPrice": null
+              },
+              {
+                  "id": "1d258075-1262-4f7f-9139-9ba030cfe2ee",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "optionsValues": {
+                      "QUANTITY": "10 x small"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 3.5,
+                  "sku": null,
+                  "hash": "263645",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "1dd75590-0840-4abc-8cda-b9278e7fac7b",
+                  "price": 47.61,
+                  "oldPrice": null
+              },
+              {
+                  "id": "8bd0b108-5272-47d8-be59-ec14e6d19c4f",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "optionsValues": {
+                      "QUANTITY": "10 x medium"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 4,
+                  "sku": null,
+                  "hash": "498522",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "1dd75590-0840-4abc-8cda-b9278e7fac7b",
+                  "price": 59.4,
+                  "oldPrice": null
+              },
+              {
+                  "id": "58c12cc6-3fe4-4ad8-906c-71440edb9848",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "optionsValues": {
+                      "QUANTITY": "1 x small"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.3,
+                  "sku": null,
+                  "hash": "443400",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "1dd75590-0840-4abc-8cda-b9278e7fac7b",
+                  "price": 5.51,
+                  "oldPrice": null
+              },
+              {
+                  "id": "37ebb93b-da3b-4edd-aa80-6de93416b3f6",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "optionsValues": {
+                      "QUANTITY": "3 x medium"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 1.2,
+                  "sku": null,
+                  "hash": "885105",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "1dd75590-0840-4abc-8cda-b9278e7fac7b",
+                  "price": 18.45,
+                  "oldPrice": null
+              },
+              {
+                  "id": "1b13369e-78fc-4662-97b4-1cfd604bed47",
+                  "productId": "47a4f61a-f49d-4b5b-8b5d-5e8de81efad0",
+                  "optionsValues": {
+                      "QUANTITY": "1 x medium"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.4,
+                  "sku": null,
+                  "hash": "960751",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "1dd75590-0840-4abc-8cda-b9278e7fac7b",
+                  "price": 6.35,
+                  "oldPrice": null
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "Also known as",
+                  "description": "<p><em>Pitaya.</em></p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p><em>Turkey, Thailand, Vietnam, Indonesia, Malaysia, Brazil, Ecuador or Spain.<br /></em></p>"
+              },
+              {
+                  "title": "Preparation",
+                  "description": "<p><em>Wash before consumption. Slice in half and scoop out.</em></p>"
+              },
+              {
+                  "title": "Usage",
+                  "description": "<p><em>Can be simply eaten out of hand or used in fruit salads, smoothies, sorbets, and more! They are also commonly used for decorative purposes due to their striking appearance.</em></p>"
+              },
+              {
+                  "title": "Storage",
+                  "description": "<p><em>Leave to ripen further at room temperature or keep fresh in refrigeration.</em></p>"
+              },
+              {
+                  "title": "Average weight",
+                  "description": "<p><em>Small - 225g+</em></p>\n<p><em>Medium - 325g+</em></p>\n<p><em>Large - 450g+</em></p>"
+              },
+              {
+                  "title": "Seasonality",
+                  "description": "<p><em>Thanks to a network of suppliers located all across the globe, we have virtually year round availability of red dragon fruit. The vast majority of our stock come from Southeast Asia and the remainder comes from Turkey, Brazil, Ecuador, and Spain.</em></p>"
+              },
+              {
+                  "title": "Further information",
+                  "description": "<p>Wondering how best to enjoy your red dragon fruits? We'd recommend using them to make <a title=\"Dragon fruit macarons - recipe\" href=\"https://www.builicious.com/2016/02/12/dragonfruit-macarons/\" target=\"_blank\" rel=\"noopener\">these</a> scrumptious dragon fruit macarons, the perfect sweet treats, and <a title=\"Dragon fruit jam - recipe\" href=\"https://cherryonacake.blogspot.com/2011/07/dragon-fruit-jam-and-dragon-fruit.html\" target=\"_blank\" rel=\"noopener\">this</a> wonderful dragon fruit jam!</p>\n<p>&nbsp;</p>"
+              },
+              {
+                  "title": "Bulk ordering",
+                  "description": "<p>Our red dragon fruit can be provided in large quantites at a reduced rate. Please email info@myexoticfruit.com for orders exceeding 45 pieces or 15kg<em>.</em></p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2017-02-21T11:09:10.918Z",
+          "productOrder": 15,
+          "deleteTime": null,
+          "keywords": [
+              "dragon fruit",
+              "red dragon fruit",
+              "pitaya",
+              "dragonfruit",
+              "red dragon"
+          ],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      },
+      {
+          "id": "fd430383-964d-4bbb-a567-d9e2794a50e0",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Mango - ataulfo",
+          "description": "<p>Love mangoes but in need of a new variety to try? Our ataulfo mangoes from Mexico are just the thing for you!</p>\n<p>Although they are slightly smaller than other mango varieties, ataulfo mangoes immediately catch the eye with their distinctive oblong shape and golden yellow skin. Beneath this smooth, delicate, aesthetically appealing skin is tender, velvety soft orange pulp (encasing a thin central seed) that emits a spectacular floral fragrance and is sure to wow your tastebuds with its divine sweetness and mouthwatering succulence. As well as being supremely aromatic, refreshing, and delectable, ataulfo mangoes are almost entirely fibreless, meaning that they are an easier - and infinitely less messy! - fruit to enjoy.</p>\n<p>Whilst their nectar-sweet, melt-in-the-mouth flesh means they are best enjoyed when simply eaten fresh out of hand, ataulfo mangoes are also a superior culinary ingredient. Indeed, ataulfo mangoes are celebrated by many as the perfect all-round mango, and as a result have acquired the nickname 'champagne mango'! Whilst their sweetness makes them perfect for dessert recipes, they are very versatile and therefore can be used in a range of savoury applications too! We'd particularly recommend using them to make delicious jams and chutneys, blending them into smoothies, capitalising on their rich tropical savour to liven up your cocktails (and mocktails!), and stirring some into curries to balance out their spiciness. Check out the 'Further information' tab below for some of our favourite mango-based recipes, including an amazing mango sorbet!</p>\n<p>As well as being brilliantly appetizing, ataulfo mangoes boast a range of nutritional benefits too. In particular, they are an excellent source of dietary fibre, are rich in vitamins A, B, and C, and provide a good amount of magnesium and potassium.</p>\n<p>&nbsp;</p>",
+          "label": "Bestseller",
+          "ribbonId": "20b7f9cc-d560-474a-b1a3-343d7f1c0397",
+          "images": [
+              {
+                  "id": "8aef9676-29d7-4052-a37a-d6449966f9c4",
+                  "url": "https://myexoticfruit.com/webshopmedia/Mango%20-%20ataulfo-1591720797475.jpg",
+                  "alt": "Want to try our ataulfo mangoes from Mexico? They have sweet, butter like flesh. Buy our ataulfo variety here for UK delivery within days!",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "fd430383-964d-4bbb-a567-d9e2794a50e0",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Mango%20-%20ataulfo-1591720797475.jpg?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "a050b1df-e27d-4928-8d6a-e26b8fea3153",
+                  "name": "Mangoes",
+                  "url": "mangoes",
+                  "meta": "Mangoes",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 15,
+                  "sortProducts": "MANUAL",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "b59dbaff-5f5b-487e-852a-5d82716aad5a",
+                  "name": "Sweet fruits",
+                  "url": "sweet-fruits",
+                  "meta": null,
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 7,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "Choose your quantity;",
+                  "values": [
+                      "1",
+                      "3",
+                      "10",
+                      "PRE-ORDER  x 6"
+                  ]
+              }
+          ],
+          "url": "mango-ataulfo",
+          "meta": "Ataulfo mangoes are a must-try! These fragrant fruits have nectar-sweet, melt-in-the-mouth flesh that wows the tastebuds. Buy now for UK delivery within days!",
+          "pageTitle": "Ataulfo Mangoes, the 'Champagne' of the Mango World",
+          "modifiedTime": "2024-03-07T15:04:28.542Z",
+          "dbNameSortInAscIndex": "5",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "4ad393e3-e80f-45a0-8e5e-a6d3c38f6d9d",
+                  "productId": "fd430383-964d-4bbb-a567-d9e2794a50e0",
+                  "optionsValues": {
+                      "Choose your quantity;": "1"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.35,
+                  "sku": null,
+                  "hash": "852378",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "8aef9676-29d7-4052-a37a-d6449966f9c4",
+                  "price": 3.75,
+                  "oldPrice": null
+              },
+              {
+                  "id": "4b04a211-e7be-4951-9fde-31c4dee51389",
+                  "productId": "fd430383-964d-4bbb-a567-d9e2794a50e0",
+                  "optionsValues": {
+                      "Choose your quantity;": "3"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 1,
+                  "sku": null,
+                  "hash": "286370",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "8aef9676-29d7-4052-a37a-d6449966f9c4",
+                  "price": 10.8,
+                  "oldPrice": null
+              },
+              {
+                  "id": "ff5e189d-5243-4822-b30e-f4a35157db80",
+                  "productId": "fd430383-964d-4bbb-a567-d9e2794a50e0",
+                  "optionsValues": {
+                      "Choose your quantity;": "PRE-ORDER  x 6"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 2.1,
+                  "sku": null,
+                  "hash": "274212",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "8aef9676-29d7-4052-a37a-d6449966f9c4",
+                  "price": 26.5,
+                  "oldPrice": null
+              },
+              {
+                  "id": "3c449802-6020-4e32-8411-0b8c5e1c9c3b",
+                  "productId": "fd430383-964d-4bbb-a567-d9e2794a50e0",
+                  "optionsValues": {
+                      "Choose your quantity;": "10"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 3,
+                  "sku": null,
+                  "hash": "871594",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "8aef9676-29d7-4052-a37a-d6449966f9c4",
+                  "price": 34.5,
+                  "oldPrice": null
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "Also known as",
+                  "description": "<p><em>Honey mango, champagne mango.</em></p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p><em>Mexico.</em></p>"
+              },
+              {
+                  "title": "Preparation",
+                  "description": "<p><em>Either peel back the skin and suck the mango away from the central seed or cut long ways along each side of the stone and then scoop the flesh from the two resulting pieces. You may also use the 'hedgehog' method to prepare honey mangoes. It is important to note that it is normal for the peel of Ataulfo and Honey Chaunsa mangoes to become wrinked when ripe.</em></p>"
+              },
+              {
+                  "title": "Usage",
+                  "description": "<p><em>Best simply eaten out of hand but can also be used to make drinks and desserts.</em></p>"
+              },
+              {
+                  "title": "Storage",
+                  "description": "<p><em>Ripen at room temperature. Refrigerate once the mango yields to gentle pressure.</em></p>"
+              },
+              {
+                  "title": "Average weight",
+                  "description": "<p><em>On average, one ataulfo mango weighs 200-350g.</em></p>"
+              },
+              {
+                  "title": "Seasonality",
+                  "description": "<p><em>Ataulfo mangoes are in season during most of the year, however there are usually fewer available in the winter months so it's likely that it'll be out of stock at times during that period.</em></p>"
+              },
+              {
+                  "title": "Further information",
+                  "description": "<p>Wondering how best to enjoy your ataulfo mangoes? We'd recommend using them to make <a title=\"Mango sorbet - recipe\" href=\"http://indirectheat.blogspot.com/2009/07/champagne-mango-sorbet.html\" target=\"_blank\" rel=\"noopener\">this</a> delicious mango sorbet, the perfect light dessert; <a title=\"Kale mango salad - recipe\" href=\"https://www.justonecookbook.com/massaged-kale-salad-with-mango/\" target=\"_blank\" rel=\"noopener\">this</a> quick, healthy mango kale salad, and <a title=\"Spicy mango salsa - recipe\" href=\"https://sarahscucinabella.com/2013/03/25/spicy-mango-salsa/\" target=\"_blank\" rel=\"noopener\">this</a> scrumptious spicy mango salsa!</p>"
+              },
+              {
+                  "title": "Pre-ordering ataulfo mangoes",
+                  "description": "<p>Our fresh ataulfo mangoes can be pre-ordered.</p>\n<p>This means you will need to wait weeks, or months, between ordering and receiving your goods. The pre-order price includes the delivery charge. If you include other fruits in your order, they will be sent separately to any fruits which you've purchased on a pre-order basis.</p>\n<p>If you're&nbsp;<u>only purchasing pre-order items</u>&nbsp;please use the discount code PREORDER during checkout which will enable you to complete your order without paying a second delivery charge.</p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2020-06-09T16:52:19.779Z",
+          "productOrder": 165,
+          "deleteTime": null,
+          "keywords": [
+              "ataulfo",
+              "ataulfo mangoes",
+              "mangoes",
+              "mango",
+              "honey mangoes",
+              "champagne mangoes"
+          ],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      },
+      {
+          "id": "c380e3d0-0d99-4d33-9c97-c9f507072b64",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Soursop leaf teabag",
+          "description": "<p>100% dried soursop leaves sealed in a teabag for convenience.</p>\n<p>Soursop, also known as Graviola, is the fruit of the Annona muricata. A broad-leaf, flowering evergreen tree native to Central America, parts of the Caribbean, South East Asia and the Pacific.</p>\n<p>While the fruit is widely used for tasty desserts and juices, the leaves have long been used in traditional medicine in various cultures.</p>\n<p>-</p>\n<p><strong>Our soursop teabags are sold in sealed foil packs. Each pack contains 20 teabags.</strong></p>",
+          "label": "",
+          "ribbonId": null,
+          "images": [
+              {
+                  "id": "9edde032-99b6-405c-b33a-8665471d0fc4",
+                  "url": "https://myexoticfruit.com/webshopmedia/Soursop%20teabag%20loose-1550852195819.jpg",
+                  "alt": "Soursop leaf teabag",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "c380e3d0-0d99-4d33-9c97-c9f507072b64",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Soursop%20teabag%20loose-1550852195819.jpg?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "86b1ab2d-6a61-449e-a362-0108d7c50933",
+                  "name": "Drinks",
+                  "url": "drinks",
+                  "meta": "Drinks",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 27,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "93a3b5df-9ee0-41ba-8693-3ecdc437376c",
+                  "name": "Soursop",
+                  "url": "soursop",
+                  "meta": "Soursop",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 6,
+                  "sortProducts": "MANUAL",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "QUANTITY",
+                  "values": [
+                      "20 teabags",
+                      "60 teabags",
+                      "100 teabags",
+                      "260 teabags",
+                      "1000 teabags"
+                  ],
+                  "id": "306cd2aa-e457-49a4-8d25-cf712a84f4f7"
+              }
+          ],
+          "url": "soursop-teabag",
+          "meta": "Soursop leaves are used to make tea. On our website we have several options including plain soursop, soursop with moringa and soursop with honey and stevia.",
+          "pageTitle": null,
+          "modifiedTime": "2023-04-23T21:50:54.888Z",
+          "dbNameSortInAscIndex": "9",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "17918943-f9f5-469c-a81f-92bd3a384bc3",
+                  "productId": "c380e3d0-0d99-4d33-9c97-c9f507072b64",
+                  "optionsValues": {
+                      "QUANTITY": "260 teabags"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.6,
+                  "sku": null,
+                  "hash": "150058",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": null,
+                  "price": 57.2,
+                  "oldPrice": null
+              },
+              {
+                  "id": "04fe9384-e510-44e1-8859-7ce89018326b",
+                  "productId": "c380e3d0-0d99-4d33-9c97-c9f507072b64",
+                  "optionsValues": {
+                      "QUANTITY": "1000 teabags"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 2,
+                  "sku": null,
+                  "hash": "247249",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": null,
+                  "price": 170,
+                  "oldPrice": null
+              },
+              {
+                  "id": "46d99c0c-010e-4c18-8116-bd8823fb8f34",
+                  "productId": "c380e3d0-0d99-4d33-9c97-c9f507072b64",
+                  "optionsValues": {
+                      "QUANTITY": "100 teabags"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.3,
+                  "sku": null,
+                  "hash": "701434",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": null,
+                  "price": 25,
+                  "oldPrice": null
+              },
+              {
+                  "id": "5d055138-60f6-47ac-a5d6-0402da5150b8",
+                  "productId": "c380e3d0-0d99-4d33-9c97-c9f507072b64",
+                  "optionsValues": {
+                      "QUANTITY": "60 teabags"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.2,
+                  "sku": null,
+                  "hash": "713899",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": null,
+                  "price": 16,
+                  "oldPrice": 18
+              },
+              {
+                  "id": "c14d9066-9d5e-4195-8025-070ebe56cfa8",
+                  "productId": "c380e3d0-0d99-4d33-9c97-c9f507072b64",
+                  "optionsValues": {
+                      "QUANTITY": "20 teabags"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.1,
+                  "sku": null,
+                  "hash": "839495",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": null,
+                  "price": 6,
+                  "oldPrice": null
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "Also known as",
+                  "description": "<p>Graviola, guanabana, guyabano, sirsak, durian belanda, bullock's heart, prickly custard apple, and soursap.</p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p>Jamaica or Indonesia</p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2017-06-22T11:17:45.471Z",
+          "productOrder": 363,
+          "deleteTime": null,
+          "keywords": [],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      },
+      {
+          "id": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Citrus - orange sweet, navel chocolate orange",
+          "description": "<p>A few years ago, a grower in a citrus orchard in Valencia discovered brown-coloured oranges on a navel tree whilst the fruit on his other trees had the usual orange colour. He decided to have the brown oranges analysed and the result was surprising! The brown-coloured oranges turned out to be better in quality and flavour than the other oranges.</p>\n<p>The grower was excited to propagate this new variety through grafting and developed a new viable variety that was named \"navel chocolate\"</p>\n<p>The Navel Chocolate oranges have a sweeter taste, a lower acidity, and are also juicier than regular navel oranges. They have a brix (sugar content level) of 12, making them one of the sweetest oranges on the market!</p>\n<p>In addition, they also have a longer shelf life, which makes this variety a particularly top-quality product!</p>",
+          "label": "",
+          "ribbonId": null,
+          "images": [
+              {
+                  "id": "afba8736-5e04-43b6-8c70-5ecac0a2bbd9",
+                  "url": "https://myexoticfruit.com/webshopmedia/fresh-delicious-navel-chocolate-orange-which-wows-with-its-divinely-sweet-and-juicy-flesh-is-available-to-buy-now-from-myexoticfruit-0x2e-com-1703071810551.png",
+                  "alt": "Fresh delicious navel chocolate orange which wows with its divinely sweet and juicy flesh is available to buy now from myexoticfruit.com",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/fresh-delicious-navel-chocolate-orange-which-wows-with-its-divinely-sweet-and-juicy-flesh-is-available-to-buy-now-from-myexoticfruit-0x2e-com-1703071810551.png?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "b658f1b9-2214-412f-9cdb-bccb00b51670",
+                  "url": "https://myexoticfruit.com/webshopmedia/navel%20chocolate%20orange-1644422026660.jpg",
+                  "alt": "Buy some seedless navel chocolate orange today for delivery within days!",
+                  "orderIndex": 1,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/navel%20chocolate%20orange-1644422026660.jpg?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "1249b066-2ba2-4d51-a968-a7f1babdfe25",
+                  "name": "Frozen fruits",
+                  "url": "frozen-fruits",
+                  "meta": "Frozen fruits",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 23,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "9222b8d2-b976-4eb6-9e1d-18838c491aa8",
+                  "name": "ALL PRODUCTS (made by Colin) hidden",
+                  "url": "all-products--0x28-made-by-colin-0x29--hidden",
+                  "meta": null,
+                  "pageTitle": "",
+                  "isHidden": true,
+                  "sortOrder": 1,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2023-05-02T12:29:24.941977",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "a8f67fbe-9efe-4ad4-a17b-e86c1b3756d1",
+                  "name": "Citrus",
+                  "url": "citrus",
+                  "meta": "Citrus",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 12,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "b59dbaff-5f5b-487e-852a-5d82716aad5a",
+                  "name": "Sweet fruits",
+                  "url": "sweet-fruits",
+                  "meta": null,
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 7,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "QUANTITY",
+                  "values": [
+                      "1",
+                      "3",
+                      "10",
+                      "3 - frozen, whole",
+                      "10 - frozen, whole",
+                      "PRE-ORDER x 3",
+                      "PRE-ORDER x 10"
+                  ]
+              }
+          ],
+          "url": "navel-chocolate-orange",
+          "meta": "Buy some seedless navel chocolate orange today for delivery within days!",
+          "pageTitle": "",
+          "modifiedTime": "2024-03-19T14:03:27.474Z",
+          "dbNameSortInAscIndex": "2",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "d6554068-193f-4d5f-b591-b99e694af885",
+                  "productId": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+                  "optionsValues": {
+                      "QUANTITY": "PRE-ORDER x 3"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0,
+                  "sku": null,
+                  "hash": "688908",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "b658f1b9-2214-412f-9cdb-bccb00b51670",
+                  "price": 9.75,
+                  "oldPrice": null
+              },
+              {
+                  "id": "051b31ba-015b-4f46-9524-377c71e1b886",
+                  "productId": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+                  "optionsValues": {
+                      "QUANTITY": "3 - frozen, whole"
+                  },
+                  "quantity": 3,
+                  "unlimited": false,
+                  "weight": 1.2,
+                  "sku": null,
+                  "hash": "289066",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "b658f1b9-2214-412f-9cdb-bccb00b51670",
+                  "price": 6.9,
+                  "oldPrice": null
+              },
+              {
+                  "id": "07b176df-1e1b-46da-87e0-0093e3a0a245",
+                  "productId": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+                  "optionsValues": {
+                      "QUANTITY": "PRE-ORDER x 10"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 2.7,
+                  "sku": null,
+                  "hash": "791839",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "b658f1b9-2214-412f-9cdb-bccb00b51670",
+                  "price": 21.9,
+                  "oldPrice": null
+              },
+              {
+                  "id": "c25295b3-6c75-4124-b1ba-f9370ca19834",
+                  "productId": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+                  "optionsValues": {
+                      "QUANTITY": "10"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 2.7,
+                  "sku": null,
+                  "hash": "688290",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "b658f1b9-2214-412f-9cdb-bccb00b51670",
+                  "price": 19,
+                  "oldPrice": null
+              },
+              {
+                  "id": "ad531175-f625-4d29-b3fb-8bb84bf658e4",
+                  "productId": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+                  "optionsValues": {
+                      "QUANTITY": "3"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.8,
+                  "sku": null,
+                  "hash": "298586",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "b658f1b9-2214-412f-9cdb-bccb00b51670",
+                  "price": 6.15,
+                  "oldPrice": null
+              },
+              {
+                  "id": "c0078050-95e5-43e0-9fa0-775feb52f9e9",
+                  "productId": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+                  "optionsValues": {
+                      "QUANTITY": "1"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.3,
+                  "sku": null,
+                  "hash": "843516",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "b658f1b9-2214-412f-9cdb-bccb00b51670",
+                  "price": 2.25,
+                  "oldPrice": null
+              },
+              {
+                  "id": "72bc39c1-a58b-4802-9d3f-fba3afdb741f",
+                  "productId": "f3dd2a44-30fa-4036-91c6-1bbbab88f9c6",
+                  "optionsValues": {
+                      "QUANTITY": "10 - frozen, whole"
+                  },
+                  "quantity": 1,
+                  "unlimited": false,
+                  "weight": 1.2,
+                  "sku": null,
+                  "hash": "104686",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "b658f1b9-2214-412f-9cdb-bccb00b51670",
+                  "price": 22.8,
+                  "oldPrice": null
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "IMPORTANT DELIVERY INFORMATION",
+                  "description": "<p>If delivered by our usual overnight courier, the frozen navel chocolate oranges will defrost or part-defrost in transit.</p>\n<p>Upon prior arrangement, we can deliver the navel chocolate oranges to you frozen if you are located in London or the surrounding counties. This is subject to a minimum order value of &pound;300 and an additional delivery charge of &pound;30.00.&nbsp;</p>"
+              },
+              {
+                  "title": "Also known as",
+                  "description": "<p><em>Navel chocolate.</em></p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p><em>Spain.</em></p>"
+              },
+              {
+                  "title": "Preparation",
+                  "description": "<p><em>Thoroughly wash before consuming.<br /></em></p>\n<p><em>Eat as you would other orange varieties.&nbsp;</em></p>"
+              },
+              {
+                  "title": "Usage",
+                  "description": "<p><em>Best enjoyed straight out of hand.</em></p>"
+              },
+              {
+                  "title": "Storage",
+                  "description": "<p><em>Keep refrigerated.</em></p>"
+              },
+              {
+                  "title": "Average weight",
+                  "description": "<p><em>One navel chocolate orange usually weighs approximately 200-300g.</em></p>"
+              },
+              {
+                  "title": "Seasonality",
+                  "description": "<p><em>Navel chocolate orange are in season from around late November / early December until February.</em></p>"
+              },
+              {
+                  "title": "Pre-ordering navel chocolate orange",
+                  "description": "<p>Our fresh navel chocolate orange can be pre-ordered.</p>\n<p>This means you will need to wait weeks, or months, between ordering and receiving your goods. The pre-order price includes the delivery charge. If you include other fruits in your order, they will be sent separately to any fruits which you've purchased on a pre-order basis.</p>\n<p>If you're only purchasing pre-order items please use the discount code PREORDER during checkout which will enable you to complete your order without paying a second delivery charge.</p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2019-12-18T09:09:35.234Z",
+          "productOrder": 188,
+          "deleteTime": null,
+          "keywords": [
+              "citrus",
+              "citrus fruit",
+              "navel chocolate orange",
+              "navel chocolate"
+          ],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      },
+      {
+          "id": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+          "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+          "name": "Cacao fruit",
+          "description": "<p>As the source of chocolate, cacao is an absolute must-try for exotic fruit lovers and chocoholics alike!</p>\n<p>Cacao pods are medium to large in size and oblong in shape. When you open the pod, you will immediately be struck by the astringent, faintly floral aroma of the fruit and see that beneath the dense, textured outer shell are 20-60 compact, elongated seeds (also known as beans) enveloped in a fleshy, white pulp. The delicious pulp surrounding each bean is soft and slippery, whereas the beans tend to be drier and chewier. If you are looking for optimal juiciness, our St Lucian cacao is the best choice, because whilst it has less flesh than the Ecuadorian variety, the pulp is notably more succulent and less dense.</p>\n<p>The flavour of cacao pulp and seeds varies depending on the variety and where and how the pods were cultivated, with some notably sweeter than others. However, the pulp typically has a sweet-sour taste, combining fruitiness, tanginess, acidity, and subtle sweetness, with divine notes of pineapple, citrus, lychee, and mango. Some people liken the flavour to 'passionfruit lemonade'! If we were to compare it to other exotic fruits, we'd say that cacao is a unique combination of soursop and mangosteen in texture and taste.</p>\n<p>Although most commonly enjoyed by sucking on the glorious white pulp, there are many other ways to make the most of these fruits! For example, you can ferment, dry, and roast the fruit's seeds to turn them into cacao nibs, which are perfect for sprinkling over granola, yoghurt, and ice cream, and can be ground into cocoa powder. Check out the 'Further information' tab below for some recipe inspiration, including an article on how to make cacao nibs!</p>\n<p>Cacao fruit boasts a host of health benefits. As well as being an excellent source of dietary fibre and vitamins and minerals such as magnesium and potassium, it is the highest plant-based source of iron known to man and has over 40 times the antioxidants of blueberries!</p>",
+          "label": "",
+          "ribbonId": null,
+          "images": [
+              {
+                  "id": "42c470b4-3a09-4cdc-949b-d5c4f89c5762",
+                  "url": "https://myexoticfruit.com/webshopmedia/Fresh%20cacao%20fruit%20from%20Saint%20Lucia.%20Make%20your%20own%20chocolate%20at%20home%20or%20suck%20the%20sweet%20flesh%20off%20the%20cacao%20beans%20if%20you%20order%20a%20fresh%20cacao%20pod%20from%20myexoticfruit.com-1682822154847.jpg",
+                  "alt": "Fresh cacao fruit from Saint Lucia. Make your own chocolate at home or suck the sweet flesh off the cacao beans if you order a fresh cacao pod from myexoticfruit.com",
+                  "orderIndex": 0,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Fresh%20cacao%20fruit%20from%20Saint%20Lucia.%20Make%20your%20own%20chocolate%20at%20home%20or%20suck%20the%20sweet%20flesh%20off%20the%20cacao%20beans%20if%20you%20order%20a%20fresh%20cacao%20pod%20from%20myexoticfruit.com-1682822154847.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "61ead55d-b53b-42b2-a1cd-1822bf880eb7",
+                  "url": "https://myexoticfruit.com/webshopmedia/Cacao%20Fruit%202-1510970877891.jpg",
+                  "alt": "Cacao fruit",
+                  "orderIndex": 1,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Cacao%20Fruit%202-1510970877891.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "a36655dc-684f-4d21-a300-ca722e6c102d",
+                  "url": "https://myexoticfruit.com/webshopmedia/Cacao%20Fruit%203-1510970939062.jpg",
+                  "alt": "Cacao fruit",
+                  "orderIndex": 2,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Cacao%20Fruit%203-1510970939062.jpg?withoutEnlargement&resize=960+9999"
+              },
+              {
+                  "id": "3e76fb8d-2e5a-4fcd-83a2-a572e8089858",
+                  "url": "https://myexoticfruit.com/webshopmedia/Fresh%20cacao%20pods%20(theobroma%20cacao)%20from%20Ecuador%20and%20Vietnam-1666185631831.jpeg",
+                  "alt": "Fresh cacao pods (theobroma cacao) from Ecuador and Vietnam. We receive fresh cacao on a weekly basis. If you'd like to order please call us here at My Exotic Fruit on 01277809810 or email info@myexoticfruit.com",
+                  "orderIndex": 3,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "improImageUrl": "https://impro.usercontent.one/appid/oneComShop/domain/myexoticfruit.com/media/myexoticfruit.com/webshopmedia/Fresh%20cacao%20pods%20(theobroma%20cacao)%20from%20Ecuador%20and%20Vietnam-1666185631831.jpeg?withoutEnlargement&resize=960+9999"
+              }
+          ],
+          "status": "visible",
+          "categories": [
+              {
+                  "id": "9222b8d2-b976-4eb6-9e1d-18838c491aa8",
+                  "name": "ALL PRODUCTS (made by Colin) hidden",
+                  "url": "all-products--0x28-made-by-colin-0x29--hidden",
+                  "meta": null,
+                  "pageTitle": "",
+                  "isHidden": true,
+                  "sortOrder": 1,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2023-05-02T12:29:24.941977",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "b59dbaff-5f5b-487e-852a-5d82716aad5a",
+                  "name": "Sweet fruits",
+                  "url": "sweet-fruits",
+                  "meta": null,
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 7,
+                  "sortProducts": "NAME_ASC",
+                  "count": 0,
+                  "createTime": "2019-10-17T07:10:31.144145",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              },
+              {
+                  "id": "ee60edd7-3a10-4d6d-9d09-1f1f8932861f",
+                  "name": "Caribbean Island Favourites",
+                  "url": "caribbean-island-favourites",
+                  "meta": "Caribbean Island Favourites",
+                  "pageTitle": "",
+                  "isHidden": false,
+                  "sortOrder": 4,
+                  "sortProducts": "MANUAL",
+                  "count": 0,
+                  "createTime": "2021-05-28T01:00:37.73202",
+                  "modified": "2023-08-31T11:39:06.597976",
+                  "deleteTime": null,
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "channels": []
+              }
+          ],
+          "optionTypes": [
+              {
+                  "name": "QUANTITY",
+                  "values": [
+                      "Small (St Lucia)",
+                      "Medium (St Lucia)",
+                      "Large (St Lucia)",
+                      "Medium (Ecuador)",
+                      "1 case, 3 to 4 pods (Ecuador)",
+                      "PRE-ORDER medium (Ecuador)",
+                      "PRE-ORDER medium (St Lucia)"
+                  ]
+              }
+          ],
+          "url": "cacao-fruit",
+          "meta": "Cacao is a must-try! Cacao's deliciously sweet-sour pulp has a taste reminiscent of 'passionfruit lemonade'! Buy now for UK delivery within days!",
+          "pageTitle": "Cacao Fruit, Nature's Chocolate",
+          "modifiedTime": "2024-03-18T09:58:33.110Z",
+          "dbNameSortInAscIndex": "1",
+          "archived": false,
+          "variants": [
+              {
+                  "id": "32fa3e26-a4d5-4ec4-a784-a4ae1cc40717",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "optionsValues": {
+                      "QUANTITY": "Large (St Lucia)"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.7,
+                  "sku": "000226",
+                  "hash": "722612",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "42c470b4-3a09-4cdc-949b-d5c4f89c5762",
+                  "price": 30.8,
+                  "oldPrice": null
+              },
+              {
+                  "id": "dd3f0afe-3328-4060-b197-d39902bf00af",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "optionsValues": {
+                      "QUANTITY": "Small (St Lucia)"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.25,
+                  "sku": "000228",
+                  "hash": "919714",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "42c470b4-3a09-4cdc-949b-d5c4f89c5762",
+                  "price": 23.65,
+                  "oldPrice": null
+              },
+              {
+                  "id": "6b82f2d7-1280-43a4-982a-a48b6e279edb",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "optionsValues": {
+                      "QUANTITY": "PRE-ORDER medium (St Lucia)"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.45,
+                  "sku": null,
+                  "hash": "225280",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "42c470b4-3a09-4cdc-949b-d5c4f89c5762",
+                  "price": 32.95,
+                  "oldPrice": null
+              },
+              {
+                  "id": "97da5c97-bb21-4fbe-9c17-d4a7b5d38844",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "optionsValues": {
+                      "QUANTITY": "1 case, 3 to 4 pods (Ecuador)"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 3,
+                  "sku": null,
+                  "hash": "889277",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "a36655dc-684f-4d21-a300-ca722e6c102d",
+                  "price": 75,
+                  "oldPrice": null
+              },
+              {
+                  "id": "8c13c26d-0c85-44c9-b03d-61902ce52448",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "optionsValues": {
+                      "QUANTITY": "Medium (St Lucia)"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.45,
+                  "sku": "000227",
+                  "hash": "164814",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "42c470b4-3a09-4cdc-949b-d5c4f89c5762",
+                  "price": 26.95,
+                  "oldPrice": null
+              },
+              {
+                  "id": "e3acb1bb-7c22-4713-b7bd-e559aad90e97",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "optionsValues": {
+                      "QUANTITY": "PRE-ORDER medium (Ecuador)"
+                  },
+                  "quantity": 0,
+                  "unlimited": false,
+                  "weight": 0.7,
+                  "sku": null,
+                  "hash": "906708",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "a36655dc-684f-4d21-a300-ca722e6c102d",
+                  "price": 28.5,
+                  "oldPrice": null
+              },
+              {
+                  "id": "dcbfaecc-33c5-4beb-a60d-1dae8bbda6e4",
+                  "productId": "243f5fb0-ccc1-4487-994c-780ec57b5ed7",
+                  "optionsValues": {
+                      "QUANTITY": "Medium (Ecuador)"
+                  },
+                  "quantity": 0,
+                  "unlimited": true,
+                  "weight": 0.7,
+                  "sku": null,
+                  "hash": "703836",
+                  "shopId": "5cae0f86-c728-46e3-ae9e-9db60c50bac9",
+                  "imageId": "a36655dc-684f-4d21-a300-ca722e6c102d",
+                  "price": 24.5,
+                  "oldPrice": null
+              }
+          ],
+          "maxPerOrder": 0,
+          "additionalInfo": [
+              {
+                  "title": "Also known as",
+                  "description": "<p><em>Cocoa bean, cocoa, coco.</em></p>"
+              },
+              {
+                  "title": "Origin",
+                  "description": "<p><em>Colombia, Ecuador, St Lucia or Vietnam.</em></p>"
+              },
+              {
+                  "title": "Variety",
+                  "description": "<p><em>Criollo, forastero or trinitario.</em></p>"
+              },
+              {
+                  "title": "Preparation",
+                  "description": "<p><em>Cut it lengthwise to obtain the beans. Use a spoon to scoop out the pulp.&nbsp;</em>&nbsp;</p>"
+              },
+              {
+                  "title": "Usage",
+                  "description": "<p><em>The beans, covered in a delicious sweet pulp, can be eaten raw or added to your favourite smoothie. Cacao powder is made from the beans once they have been dried, roasted and grinded.</em></p>"
+              },
+              {
+                  "title": "Storage",
+                  "description": "<p><em>It can be preserved through refrigeration but will ripen at room temperature.</em></p>"
+              },
+              {
+                  "title": "Average weight",
+                  "description": "<p><em>Cacao pods vary greatly in weight depending upon their size, ranging from approximately 200-800g.</em></p>"
+              },
+              {
+                  "title": "Seasonality",
+                  "description": "<p><em>All year round.</em></p>"
+              },
+              {
+                  "title": "Further information",
+                  "description": "<p>Wondering how best to enjoy your cacao fruit? Click <a title=\"Cooking with cacao pods\" href=\"https://www.dandelionchocolate.com/2018/10/19/cooking-with-fresh-cacao-pods-and-a-recipe-for-cacao-chips-and-cacao-fruit-jam/\" target=\"_blank\" rel=\"noopener\">here</a> to find out more about how to cook with cacao and <a title=\"How to make chocolate from cacao beans\" href=\"https://www.alphafoodie.com/how-to-make-chocolate-bean-to-bar/\" target=\"_blank\" rel=\"noopener\">here</a> to learn how to make chocolate from cacao beans!</p>\n<p>&nbsp;</p>"
+              },
+              {
+                  "title": "Bulk ordering",
+                  "description": "<p>Our cacao can be provided in larger quantities at a reduced rate, please email trade@myexoticfruit.com for orders exceeding &pound;250.</p>"
+              },
+              {
+                  "title": "Pre-ordering cacao fruit",
+                  "description": "<p>Our fresh cacao fruit from Ecuador can be pre-ordered.</p>\n<p>This means you will need to wait weeks, or months, between ordering and receiving your goods. The pre-order price includes the delivery charge. If you include other fruits in your order, they will be sent separately to any fruits which you've purchased on a pre-order basis.</p>\n<p>If you're&nbsp;only purchasing pre-order items&nbsp;please use the discount code PREORDER during checkout which will enable you to complete your order without paying a second delivery charge</p>"
+              }
+          ],
+          "orderCount": 0,
+          "createdTime": "2017-02-21T11:09:10.918Z",
+          "productOrder": 83,
+          "deleteTime": null,
+          "keywords": [
+              "cacao",
+              "coco",
+              "cocoa",
+              "cacao pods",
+              "cacao beans"
+          ],
+          "files": [],
+          "type": "PHYSICAL",
+          "giftCardExpiry": null,
+          "channels": [
+              {
+                  "id": "5bba23d0-8e78-4111-bf9e-65d642803811",
+                  "name": "STOREFRONT",
+                  "default": true,
+                  "description": "Webshop offerred storefront"
+              }
+          ]
+      }
+  ]
+}
