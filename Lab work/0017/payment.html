@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exotic Fruit | Shop</title>
+    <link rel="stylesheet" href="./css/style.css" />
+    <link rel="stylesheet" href="./css/responsive.css" />
+  </head>
+  <body>
+    <!-- ################# Start of Navbar ################# -->
+    <nav>
+      <div class="container">
+        <a href="./index.html">Home</a>
+        <a href="./shop.html">Shop Now</a>
+        <a href="./about.html">About Us</a>
+        <a href="./contact.html">Contact Us</a>
+        <a href="./cart.html" style="position: relative">
+          <svg
+            class="cart-icon"
+            id="cart-id"
+            focusable="false"
+            viewBox="0 0 150 150"
+            fill="none"
+            xmlns="http://www.w3.org/2000/svg"
+          >
+            <path
+              d="M3.79976 21.25L4.60333 8.75H19.3967L20.2002 21.25H3.79976Z"
+              stroke="currentColor"
+              stroke-width="1.5"
+              transform="matrix(6,0,0,6,0,0)"
+            ></path>
+            <path
+              d="M15.5 11C15.5 6.89732 15.1411 3 12 3C8.85888 3 8.5 6.89732 8.5 11"
+              stroke="currentColor"
+              stroke-width="1.5"
+              transform="matrix(6,0,0,6,0,0)"
+            ></path>
+          </svg>
+          <span id="total-cart-item">0</span>
+        </a>
+      </div>
+    </nav>
+
+    <div class="container payment__wrapper">
+      <h1>ENTER card details</h1>
+
+      <div class="payment__info">
+        <h4>Payment Amount :</h4>
+        <p id="total-price">£0.0</p>
+      </div>
+
+      <form onsubmit="handlePayment(event)">
+        <div class="form-control">
+          <label for="name">Name on Card</label>
+          <input type="text" id="name" required name="name" />
+        </div>
+        <div class="form-control">
+          <label for="number">Card Number</label>
+          <input
+            type="text"
+            id="number"
+            required
+            name="number"
+            placeholder="**** **** **** ****"
+          />
+        </div>
+        <div class="form-control">
+          <label for="expiry-date">Expiry Date (MM/YY)</label>
+          <input
+            type="text"
+            id="expiry-date"
+            required
+            name="expiry-date"
+            placeholder="MM/YY"
+            maxlength="5"
+          />
+        </div>
+        <div class="form-control">
+          <label for="security-number">Security Code</label>
+          <input
+            type="text"
+            id="security-number"
+            required
+            name="security-number"
+            maxlength="3"
+          />
+        </div>
+        <button class="btn" type="submit">PAY AMOUNT</button>
+      </form>
+    </div>
+
+    <footer>
+      <p>© Exotic Fruits. 2024. All Rights Reserved.</p>
+    </footer>
+
+    <script src="./js/navbar.js"></script>
+
+    <script src="./js/payment.js"></script>
+  </body>
+</html>
